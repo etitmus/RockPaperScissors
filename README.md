@@ -1,4 +1,5 @@
 # RockPaperScissors
+<p>This repository is for me to create a simple rock, paper, scissors game using HTML, CSS, and JavaScript</p>
 <p>Configuration instructions</p>
 <p>Installation instructions</p>
 <p>Operating instructions</p>
